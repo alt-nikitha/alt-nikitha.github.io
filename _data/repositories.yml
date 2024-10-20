@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - alt-nikitha
 
-repo_description_lines_max: 2
+repo_description_lines_max: 4
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - alt-nikitha/Using-LSTMs-and-LIME-to-understand-Covid-19-HRV-measurements
+  - alt-nikitha/TimepassMushroomsAnalysis
+  - alt-nikitha/Marvel-s-Avengers-Knapsack
+  - alt-nikitha/Lennon-McCartney
+  - alt-nikitha/NewsMediaBiasDetection
+  - alt-nikitha/Sonnet-Generator
+  - alt-nikitha/Safe-Youtube-for-kids
+  - alt-nikitha/Covid-19-Mobility
