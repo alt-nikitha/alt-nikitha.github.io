@@ -9,17 +9,15 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Machine Learning Engineer 2 </p>
+    <p>Experience Intelligence</p>
+    <p>Adobe - Bangalore, India</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I have grown up being obsessed with language in all its forms. My full-time hobbies of reading and writing have also influenced my full-time job working with language at [Adobe](https://www.adobe.com), India. My current work lies at the intersection of AI and its explainability, psychology, creativity, and marketing. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+With my new book out, I remain uncertain about what it means for creativity in the age of AI. [Do I want AI to do my laundry while I do my art?](https://x.com/AuthorJMac/status/1773679197631701238?lang=en) Yes. But do I also want to build creative AI that can be used to advance research in various disciplines? Yes. Fueled by both these opposing emotions but mainly a desire to understand our own brains, I am excited about research in explainable AI and its use in various disciplines like marketing, economics, physics, biology, etc. 
