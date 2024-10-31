@@ -4,7 +4,7 @@ title: Interpretable QA for Privacy Policies
 description: It is hard to read privacy policy documents. Not sure whether your searches are tracked? Why not use our QA system to find out?
 importance: 2
 category: fun
-img: assets/img/privacyqa.jpg
+img: assets/img/privacyqa.png
 ---
 
 
@@ -14,7 +14,7 @@ I worked on a Question Answering system for privacy policy documents using deep 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/privacyqa.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/privacyqa.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
