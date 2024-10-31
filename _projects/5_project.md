@@ -7,7 +7,7 @@ importance: 1
 category: fun
 ---
 
-This project was done as part of the 2-month <a href="https://smartinternz.com/ibm-hack-challenge-2020">IBM Hack Challenge 2020 </a>. My team was declared one of the 7 winners out of over 10000 participants. 
+This project was done as part of the 2-month <a href="https://smartinternz.com/ibm-hack-challenge-2020">IBM Hack Challenge 2020 </a>. My team was declared one of the 7 winners out of over 10000 participants. Full code and additional details can be found <a href="https://github.com/neelbhandari6/SBSPS-Challenge-1751-Impact-of-COVID-19-on-Food-Security-Visualization-Dashboard"> here.</a>
 
 We conducted two levels of analysis:
 1. Price Elasticity- We understand how sensitive the demand is towards price

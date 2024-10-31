@@ -1,14 +1,17 @@
 github_users:
   - alt-nikitha
+  - neelbhandari6
 
 repo_description_lines_max: 4
 
 github_repos:
   - alt-nikitha/Using-LSTMs-and-LIME-to-understand-Covid-19-HRV-measurements
+  - neelbhandari6/Interpretable-PolicyQA
+  - neelbhandari6/SBSPS-Challenge-1751-Impact-of-COVID-19-on-Food-Security-Visualization-Dashboard
   - alt-nikitha/TimepassMushroomsAnalysis
   - alt-nikitha/Marvel-s-Avengers-Knapsack
   - alt-nikitha/Lennon-McCartney
   - alt-nikitha/NewsMediaBiasDetection
   - alt-nikitha/Sonnet-Generator
   - alt-nikitha/Safe-Youtube-for-kids
-  - alt-nikitha/Covid-19-Mobility
+  
