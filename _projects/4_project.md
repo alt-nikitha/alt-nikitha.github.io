@@ -4,6 +4,7 @@ title: Interpretable QA for Privacy Policies
 description: It is hard to read privacy policy documents. Not sure whether your searches are tracked? Why not use our QA system to find out?
 importance: 2
 category: fun
+img: assets/img/privacyqa.jpg
 ---
 
 
