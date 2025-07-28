@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: assets/pdf/Nikitha_Srikanth_CV.pdf
+permalink: assets/pdf/Nikitha_Srikanth_Resume.pdf
 title: cv
 nav: true
 nav_order: 5
